@@ -14,3 +14,4 @@ public class Code06 {
         }
     }
 }
+//테스트 코드06
